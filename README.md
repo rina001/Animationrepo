@@ -1,2 +1,0 @@
-# Animationrepo
-Animation_gif_analysis
